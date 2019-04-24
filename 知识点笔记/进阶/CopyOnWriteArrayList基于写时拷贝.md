@@ -1,0 +1,8 @@
+# 1.CopyOnWriteArrayList实现原理
+
+- 是一个线程安全的ArrayList，对其进行的修改操作和元素迭代操作都是在底层创建一个拷贝的
+数组（快照）上进行的，也就是写时拷贝策略
+
+- 每个CopyOnWriteArrayList对象里面有一个array数组对象用来存放具体元素，ReentrantLock
+独占锁对象用来保证同时只有一个线程对array进行修改，这里只要记住ReentrantLock是独占锁，同
+时只有一个线程获取就可以了

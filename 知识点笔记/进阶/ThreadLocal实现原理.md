@@ -1,0 +1,23 @@
+# 1.ThreadLocal原理
+
+- ThreadLocal是在JDK1.2包里面开始提供的，它提供了线程的本地变量，也就是说如果你创建了一个
+ThreadLocal变量，那么访问这个变量的每一个线程都会有这个变量的一个本地拷贝，多个线程操作这个
+变量的时候，实际上是在操作自己本地内存里面的变量，从而避免了线程安全问题，创建一个ThreadLocal
+变量后每个线程会拷贝一个变量到自己的本地内存
+
+- ThreadLocal就是一个工具壳，它通过set方法把value值放入调用线程的threadLocals里面存放起来，
+当调用线程调用它的get方法时再从当前线程的threadLocals变量里面拿出来用
+
+```
+ThreadLocal.ThreadLocalMap threadLocals = null;
+```
+- threadLocals是ThreadLocalMap类型的变量，而ThreadLocalMap是一个定制化的HashMap，默认每个
+线程中这个变量都为null，只有当前线程第一次调用了ThreadLocal的set或者get方法的时候才会创建
+threadLocals变量
+
+- 每个线程的本地变量不是存放到ThreadLocal实例里面的，而是存放到调用线程的threadLocals变量里面，
+也就是说，ThreadLocal类型的本地变量是存放到具体的线程内存空间的
+
+- 每个线程内部都有一个名字为threadLocals的成员变量，该变量类型为HashMap，其中key为我们定义的
+ThreadLocal变量的this引用，value为我们set的值，如果当前线程不消失，则本地变量会一直存在，从而
+造成内存溢出，所以要调用remove方法删除对应线程的threadLocals中的本地变量
