@@ -1,5 +1,8 @@
 package com.imooc.multi_thread.Class001;
 
+import java.util.Vector;
+
+
 public class TestRxJava01 {
 
     private static final String THREAD_NUM = "sub-thread";

@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64cff383-ced9-440a-b984-f90758a14127" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_24_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugin_tools_maven_plugin_annotations_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/DZ_demo/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/aspect_demo/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/aspect_demo/AccountAspect.aj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/aspect_demo/Aspect_Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/GoogleGuavaTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/GoogleGuavaTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/GoogleGuavaTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/HadoopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/HadoopTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/WordMRDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/WordMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/WordReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/io/hello1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/io/hello2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/io/hello3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/io/io_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/io/io_tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/lambda_stream/Lambda_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/zookeeper/ZooKeeperWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/zuul/Play_With_Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hadoop.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/imooc/aspect_demo/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/imooc/aspect_demo/Aspect_FilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识点笔记/源码/ThreadPoolExecutor_SourceCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi_thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/multi_thread/Class001/TestRxJava01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/multi_thread/Class001/TestRxJava01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/multi_thread.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava02$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava02$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class001/TestRxJava02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/Consumer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/Consumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/Consumer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava01$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava01$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava03$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava03$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class002/TestRxJava03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava01$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava01$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava02$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava02$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava02$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava02$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class003/TestRxJava02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class004/AtomicLong.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class004/AtomicLong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class004/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class004/Cell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal$T.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal$T.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class005/ThreadLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class006/NewRandomTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class006/NewRandomTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class006/RandomTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class006/RandomTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class007/CopyOnWriteArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class007/CopyOnWriteArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/CountDownLatch$Sync.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/CountDownLatch$Sync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/CountDownLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/CountDownLatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class008/JoinCountDownLatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class009/TomcatThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class009/TomcatThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class009/TomcatThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class009/TomcatThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadName$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadName$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadName$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadName$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/MeaningfulThreadPoolName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/NamedThreadFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class015/NamedThreadFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class016/NamedThreadFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class016/NamedThreadFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class016/newThreadByThreadPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class016/newThreadByThreadPool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class016/newThreadByThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class016/newThreadByThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class017/newThreadPoolByExecutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class017/newThreadPoolByExecutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class018/TestSimpleDateFormat$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class018/TestSimpleDateFormat$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class018/TestSimpleDateFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class018/TestSimpleDateFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$SafeCount1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$SafeCount1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$SafeCount2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$SafeCount2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$ShareValueBySynchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$ShareValueBySynchronized.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$ShareValueByVolatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest$ShareValueByVolatile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class019/SynchronizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestScheduledExecutorService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestScheduledExecutorService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestScheduledExecutorService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestScheduledExecutorService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestScheduledExecutorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestScheduledExecutorService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestTimer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestTimer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestTimer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestTimer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class021/TestTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class022/TestCountDownLatch$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class022/TestCountDownLatch$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class022/TestCountDownLatch$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class022/TestCountDownLatch$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class022/TestCountDownLatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class022/TestCountDownLatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class023/TestThreadLocal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class023/TestThreadLocal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class023/TestThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/multi_thread/Class023/TestThreadLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/multi_thread.kotlin_module" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/知识点笔记/源码/ThreadPoolExecutor_SourceCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="384" column="43" selection-start-line="384" selection-start-column="43" selection-end-line="384" selection-end-column="43" />
+              <folding>
+                <element signature="docComment;class#ThreadPoolExecutor#0" />
+                <element signature="e#12824#15595#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Aspect" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resize</find>
+      <find>HashMap</find>
+      <find>clear</find>
+      <find>entry</find>
+      <find>copy</find>
+      <find>remove</find>
+      <find>state</find>
+      <find>init</find>
+      <find>init(</find>
+      <find>setPriority</find>
+      <find>stop</find>
+      <find>interrupt</find>
+      <find>interrupt(</find>
+      <find>interrupt0</find>
+      <find>interrupt0(</find>
+      <find>join(</find>
+      <find>submit</find>
+      <find>run</find>
+      <find>run(</find>
+      <find>tryAc</find>
+      <find>Node</find>
+      <find>class Node</find>
+      <find>RejectedExecutionHandler</find>
+      <find>execute</find>
+      <find>addWorker</find>
+      <find>addWorker(</find>
+      <find>schedule</find>
+      <find>ScheduledThreadPoolExecutor</find>
+      <find>execute(</find>
+      <find>newScheduledThreadPool</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/resources/hadoop.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/WordMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/WordReduce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/HadoopConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/HadoopTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/hadoop/WordMRDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/multi_thread/Class001/TestRxJava01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/multi_thread/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/zuul/Play_With_Zuul.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/zookeeper/ZooKeeperWatcher.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/aspect_demo/AccountAspect.aj" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/aspect_demo/Account.java" />
+        <option value="$PROJECT_DIR$/src/test/com/imooc/aspect_demo/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/aspect_demo/Aspect_Filter.java" />
+        <option value="$PROJECT_DIR$/src/test/com/imooc/aspect_demo/Aspect_FilterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/io/io_demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/io/io_tools.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/DZ_demo/Checking.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/lambda_stream/Lambda_Stream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/GoogleGuavaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/GoogleGuavaTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/GoogleGuavaTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/google_guava/GoogleGuavaTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/lock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/thread.java" />
+        <option value="$PROJECT_DIR$/知识点笔记/源码/ThreadPoolExecutor_SourceCode.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Play-with-Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Play-with-Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Play-with-Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Play-with-Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Play-with-Spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2048" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="知识点笔记" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-with-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="知识点笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="源码" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="flex.debug.filter.swf.load.unload" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/imooc/io" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.imooc.aspect_demo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.imooc.google_guava" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/imooc/io" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadLocal">
+    <configuration name="GoogleGuavaTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.google_guava.GoogleGuavaTest1" />
+      <module name="Play-with-Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.google_guava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleGuavaTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.google_guava.GoogleGuavaTest2" />
+      <module name="Play-with-Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.google_guava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleGuavaTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.google_guava.GoogleGuavaTest3" />
+      <module name="Play-with-Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.google_guava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.multi_thread.Class005.ThreadLocal" />
+      <module name="Play-with-Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.multi_thread.Class005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.sourceCodeDemo.base" />
+      <module name="Play-with-Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.sourceCodeDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadLocal" />
+        <item itemvalue="Application.base" />
+        <item itemvalue="Application.GoogleGuavaTest3" />
+        <item itemvalue="Application.GoogleGuavaTest2" />
+        <item itemvalue="Application.GoogleGuavaTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64cff383-ced9-440a-b984-f90758a14127" name="Default Changelist" comment="" />
+      <created>1565596511977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565596511977</updated>
+      <workItem from="1565596515042" duration="467000" />
+      <workItem from="1565684700357" duration="220000" />
+      <workItem from="1565744511573" duration="239000" />
+      <workItem from="1565751971806" duration="3892000" />
+      <workItem from="1565762885050" duration="609000" />
+      <workItem from="1565829147796" duration="1537000" />
+      <workItem from="1565918342268" duration="501000" />
+      <workItem from="1566185008932" duration="494000" />
+      <workItem from="1566265224161" duration="2184000" />
+      <workItem from="1566348570897" duration="1420000" />
+      <workItem from="1566368978222" duration="6069000" />
+      <workItem from="1566434705096" duration="2980000" />
+      <workItem from="1566519859377" duration="3052000" />
+      <workItem from="1566781250289" duration="945000" />
+      <workItem from="1566954266891" duration="30000" />
+      <workItem from="1566956427534" duration="506000" />
+      <workItem from="1566958141788" duration="47000" />
+      <workItem from="1567406640826" duration="5125000" />
+      <workItem from="1567472162963" duration="219000" />
+      <workItem from="1567558300277" duration="3653000" />
+      <workItem from="1567643392001" duration="4285000" />
+      <workItem from="1568693678101" duration="1844000" />
+      <workItem from="1568767678295" duration="1180000" />
+      <workItem from="1568774167438" duration="4135000" />
+      <workItem from="1568854583369" duration="1297000" />
+      <workItem from="1568939947946" duration="578000" />
+      <workItem from="1569720021009" duration="7597000" />
+      <workItem from="1569803607002" duration="8850000" />
+      <workItem from="1570581008060" duration="780000" />
+      <workItem from="1570584698184" duration="5445000" />
+      <workItem from="1570668033681" duration="9276000" />
+      <workItem from="1570754818826" duration="936000" />
+      <workItem from="1570841195881" duration="4759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GroovyCompiler$UnitTest - 2019.08.21 at 16h 57m 10s.xml">
+      <configuration name="GroovyCompiler$UnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroovyCompiler$UnitTest_testLoadGroovyFromString - 2019.08.21 at 16h 57m 24s.xml">
+      <configuration name="GroovyCompiler$UnitTest.testLoadGroovyFromString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroovyCompiler$UnitTest_testLoadGroovyFromString_(1) - 2019.08.21 at 16h 57m 44s.xml">
+      <configuration name="GroovyCompiler$UnitTest.testLoadGroovyFromString (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterProcessor$UnitTest_testRouteProcess - 2019.08.21 at 17h 04m 54s.xml">
+      <configuration name="FilterProcessor$UnitTest.testRouteProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZuulServletFilter$UnitTest - 2019.08.22 at 13h 52m 57s.xml">
+      <configuration name="ZuulServletFilter$UnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest - 2019.09.02 at 15h 03m 26s.xml">
+      <configuration name="AccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountTest - 2019.09.02 at 15h 04m 23s.xml">
+      <configuration name="AccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Aspect_FilterTest_filter - 2019.09.02 at 16h 50m 19s.xml">
+      <configuration name="Aspect_FilterTest.filter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Aspect_FilterTest - 2019.09.02 at 16h 53m 27s.xml">
+      <configuration name="Aspect_FilterTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85151000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2048" height="1042" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23529412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31823084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28047466" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32901832" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32901832" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32901832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24975075" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.14207378" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19341974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31823084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28047466" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32901832" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32901832" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32901832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24975075" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.14207378" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1660</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="140" column="7" lean-forward="true" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#String#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="docComment;class#Long#0" />
+            <element signature="e#35809#35810#0" expanded="true" />
+            <element signature="e#35843#35844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="142" column="27" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#Arrays#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3339">
+          <caret line="474" column="9" lean-forward="true" selection-start-line="474" selection-start-column="9" selection-end-line="474" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="58" column="54" lean-forward="true" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+          <folding>
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665">
+          <caret line="82" column="3" lean-forward="true" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="459" column="7" lean-forward="true" selection-start-line="459" selection-start-column="7" selection-end-line="459" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="119" column="7" lean-forward="true" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="102" column="7" lean-forward="true" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="docComment;class#HashMap#0" />
+            <element signature="e#6013#10624#0" />
+            <element signature="e#13541#14494#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="112" column="43" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="43" />
+          <folding>
+            <element signature="docComment;class#TreeMap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar!/org/apache/commons/collections/map/LinkedMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="250" column="49" selection-start-line="250" selection-start-column="49" selection-end-line="250" selection-end-column="49" />
+          <folding>
+            <element signature="docComment;class#TreeSet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/ans/ans-sdk/0.1.1/ans-sdk-0.1.1.jar!/com/google/common/collect/Maps.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/ans/ans-sdk/0.1.1/ans-sdk-0.1.1.jar!/com/google/common/collect/Lists.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="138" column="5" selection-start-line="119" selection-start-column="46" selection-end-line="119" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/DelayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7992">
+          <caret line="490" lean-forward="true" selection-start-line="490" selection-end-line="490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2423">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="104" column="13" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="130" column="21" lean-forward="true" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;class#LinkedBlockingQueue#0" />
+            <element signature="e#2268#4214#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8519">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="511" column="19" lean-forward="true" selection-start-line="511" selection-start-column="19" selection-end-line="511" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="47" column="59" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="120" column="7" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#Future#0" />
+            <element signature="docComment;method#cancel#0;class#Future#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#ScheduledExecutorService#0" />
+            <element signature="docComment;method#schedule#0;class#ScheduledExecutorService#0" />
+            <element signature="docComment;method#schedule#1;class#ScheduledExecutorService#0" />
+            <element signature="docComment;method#scheduleAtFixedRate#0;class#ScheduledExecutorService#0" />
+            <element signature="docComment;method#scheduleWithFixedDelay#0;class#ScheduledExecutorService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="254" column="20" selection-start-line="254" selection-start-column="16" selection-end-line="254" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="1239" column="7" selection-start-line="1239" selection-start-column="7" selection-end-line="1239" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#Thread#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/ans/ans-sdk/0.1.1/ans-sdk-0.1.1.jar!/com/google/common/util/concurrent/Atomics.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="293" lean-forward="true" selection-start-line="293" selection-end-line="293" />
+          <folding>
+            <element signature="docComment;class#AbstractQueuedSynchronizer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="735" column="65" lean-forward="true" selection-start-line="735" selection-start-column="65" selection-end-line="735" selection-end-column="65" />
+          <folding>
+            <element signature="docComment;class#ReentrantLock#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="175" column="20" selection-start-line="175" selection-start-column="20" selection-end-line="175" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4536">
+          <caret line="313" column="25" selection-start-line="313" selection-start-column="16" selection-end-line="313" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="docComment;class#AbstractExecutorService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/multi_thread/Class017/newThreadPoolByExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#ExecutorService#0" />
+            <element signature="docComment;method#shutdown#0;class#ExecutorService#0" />
+            <element signature="docComment;method#shutdownNow#0;class#ExecutorService#0" />
+            <element signature="docComment;method#isShutdown#0;class#ExecutorService#0" />
+            <element signature="docComment;method#isTerminated#0;class#ExecutorService#0" />
+            <element signature="docComment;method#awaitTermination#0;class#ExecutorService#0" />
+            <element signature="docComment;method#submit#0;class#ExecutorService#0" />
+            <element signature="docComment;method#submit#1;class#ExecutorService#0" />
+            <element signature="docComment;method#submit#2;class#ExecutorService#0" />
+            <element signature="docComment;method#invokeAll#0;class#ExecutorService#0" />
+            <element signature="docComment;method#invokeAll#1;class#ExecutorService#0" />
+            <element signature="docComment;method#invokeAny#0;class#ExecutorService#0" />
+            <element signature="docComment;method#invokeAny#1;class#ExecutorService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/multi_thread/Class005/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="105" column="48" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识点笔记/基础/什么是线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="658">
+            <caret line="59" column="16" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识点笔记/基础/Volatile与Synchronized.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识点笔记/基础/Java内存模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="288">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="306" selection-start-line="299" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="300" column="30" lean-forward="true" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/sourceCodeDemo/thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="395" lean-forward="true" selection-start-line="395" selection-end-line="395" />
+          <folding>
+            <element signature="docComment;class#ThreadPoolExecutor#0" />
+            <element signature="e#12824#15595#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识点笔记/源码/ThreadPoolExecutor_SourceCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="384" column="43" selection-start-line="384" selection-start-column="43" selection-end-line="384" selection-end-column="43" />
+          <folding>
+            <element signature="docComment;class#ThreadPoolExecutor#0" />
+            <element signature="e#12824#15595#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Play-with-Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
